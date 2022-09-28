@@ -1,0 +1,80 @@
+#divpricipal {
+
+    border: 0px solid rgb(119, 0, 255);
+}
+
+.cabeçalho {
+    border: 0px solid red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 1.5em;
+    background-color: #B0E0E6;
+
+}
+
+body {
+    background-color: #F0F8FF;
+}
+
+.Tecbranco {
+    color: white;
+}
+
+.menu {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    font-size: 0, 2em;
+
+}
+
+a {
+    color: 	#191970;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: 	#191970;
+    background-color: rgb(255, 255, 255);
+}
+
+.conteudopri {
+    border: 0px solid red;
+    width: 600px;
+    margin: 3px;
+    margin-left: 100px;
+    float: left;
+    padding: 3px;
+}
+
+.conteudodireita {
+    border: 0px solid red;
+    width: 300px;
+    clear: both;
+    display: inline-block;
+    padding: 3px;
+    margin: 3px;
+
+}.rodape{
+    width: 919px;
+    border: 0px solid red;
+ margin-left: 102px;
+ text-align: center;
+ background-color:#C0C0C0;
+ clear: both;
+}
+h3{
+    padding: 5px;
+    margin: 5px;
+}
+h5{
+    text-align: center;
+font-size: 1em;
+}
+
+  
+  
+
